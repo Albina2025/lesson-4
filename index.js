@@ -24,26 +24,26 @@
 // }
 // check()
 
-if (true){
+// if (true){
 
-    var b = "Mirbek"
-    console.log(b, 30);
-    let a = "Aktilek"
-    console.log(a, 32);
-}
-
-console.log(b,"37");
-console.log(a,"38");
-
-// function show() {
-//     let title = "Alma"
-
-//     function setUser () {
-//         alert (title)
-//     }
-//     setUser()
+//     var b = "Mirbek"
+//     console.log(b, 30);
+//     let a = "Aktilek"
+//     console.log(a, 32);
 // }
-// show()
+
+// console.log(b,"37");
+// console.log(a,"38");
+
+function show() {
+    let title = "Alma"
+
+    function setUser () {
+        alert (title)
+    }
+    setUser()
+}
+show()
 
 
 // parametr
