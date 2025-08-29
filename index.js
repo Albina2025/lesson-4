@@ -24,16 +24,16 @@
 // }
 // check()
 
-// if (true){
+if (true){
 
-//     var b = "Mirbek"
-//     console.log(b, 30);
-//     let a = "Aktilek"
-//     console.log(a, 32);
-// }
+    var b = "Mirbek"
+    console.log(b, 30);
+    let a = "Aktilek"
+    console.log(a, 32);
+}
 
-// console.log(b,"37");
-// console.log(a,"38");
+console.log(b,"37");
+console.log(a,"38");
 
 // function show() {
 //     let title = "Alma"
@@ -69,13 +69,13 @@
 // sum (3,3) //9
 
 
-let age = confirm ("jashynyz kanchada?")
-alert(age)
-if (age > 18){
-    alert("sizge kiruugo bolot")
-}else if (age < 18){
-    alert("Ata eneniz uruksat berdibi?")
-}else if (age <= 18 )
-    alert("sizge kiruugo bolboit.")
+// let age = confirm ("jashynyz kanchada?")
+// alert(age)
+// if (age > 18){
+//     alert("sizge kiruugo bolot")
+// }else if (age < 18){
+//     alert("Ata eneniz uruksat berdibi?")
+// }else if (age <= 18 )
+//     alert("sizge kiruugo bolboit.")
 
 
